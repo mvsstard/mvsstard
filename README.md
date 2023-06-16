@@ -13,7 +13,7 @@ mvsstard</a></h1>
 - :computer: 
 - :student: 
 - :nerd_face: 
-- :thinking: I’m currently open for a new `job opportunity`
+- :thinking: 
 - :boom: 
 <br>
 
